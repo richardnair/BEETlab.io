@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to LMU Munich!** During the next two years, we will build up a group at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+**News: This is a rough draft.**  Headlining news about the lab and related information of the research group can be displayed here. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
