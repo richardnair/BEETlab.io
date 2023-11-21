@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Richard Nair Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Richard Nair Lab at Department of Botany &rarr; TCD."
 sitemap: false
 permalink: /
 ---
