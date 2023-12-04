@@ -1,13 +1,13 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
+- name: Richard Nair (Group Leader)
+  photo: richard_blackpines.png
+  info: Teaching / Research Fellow, TCD
+  email: richard.nair[at]tcd.ie
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: SFI Royal Society University Research Fellow, Trinity College Dublin 2023-
+  education2: Teaching Fellow, Trinty College Dublin 2022-2023
+  education3: Marie Skldowska-Curie Individual Fellow, Max Planck Institute for Biogeochemistry 2017-2019
+  education4: Scientist, Max Planck Institute for Biogeochemistry 2015-2022
+  education5: PhD, School of Geosciences, University of Edinburgh, 2015
 
 - name: Jiasen Niu
   photo: Jiasen.png
