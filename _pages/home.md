@@ -1,5 +1,5 @@
 ---
-title: "Richard Nair Lab - Home"
+title: "BEET Lab - Home"
 layout: homelay
 excerpt: "Richard Nair Lab at Department of Botany &rarr; TCD."
 sitemap: false
