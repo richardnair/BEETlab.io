@@ -1,7 +1,7 @@
 - name: Richard Nair (Group Leader)
   photo: richard_blackpines.png
   info: Teaching / Research Fellow, TCD
-  email: richard.nair[at]tcd.ie
+  email: richard.nair@tcd.ie
   number_educ: 5
   education1: SFI Royal Society University Research Fellow, Trinity College Dublin 2023-
   education2: Teaching Fellow, Trinty College Dublin 2022-2023
@@ -12,8 +12,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: ashritganti@gmail.com
+  info: We are hiring. Details will be posted here shortly. 
+  email:
   number_educ: 0
   education1:
   education2:
