@@ -48,14 +48,10 @@ permalink: /
 
 We, at the BEET lab, pioneer interdisciplinary research focused on understanding the intricate interactions between plants, their environments, and the fundamental cycles of matter and energy shaping our planet. Our holistic approach involves studying plants as complete organisms, both above and belowground, within the contexts of their phenological cycles and biogeochemical interactions. With a commitment to generating general, scalable knowledge crucial for Earth's sustainability amid the planetary crisis, we specialize in leveraging advanced computational methods alongside hands-on field data collection to unravel cryptic components of ecosystems. Emphasizing interdisciplinary collaboration, our lab seeks comprehensive insights into the complex relationships between plants and their environments, aiming to contribute valuable solutions to global ecological challenges.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+ **We will be hiring PhD's and Research Assistants. Check this space again for more details.  ** 
 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/Trinity_Main_Logo.jpg" style="width: 210px">
 </figure>
