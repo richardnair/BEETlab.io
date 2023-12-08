@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "BEET Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "BEET Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -12,12 +12,15 @@ Our overarching goal is to explore and understand new quantum states of electron
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
 
-Here are some themes and techniques that we currently work on:
+Here are the open projects that we currently work on:
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**RODEO: Root Dynamics for Ecosystem Observation** In RODEO, we are building a network of root-shoot observatories at ecosystem greenhouse gas observation sites to study the linkage between root and shoot phenology and what this means for the carbon cycle.
 
+Phenology is the way living things change through the seasons. For plants, phenology affects how much CO2 they take up in photosynthesis or release as they die, so phenology affects climate change. But climate change is altering phenology, such as more growth in warm winters or less in dry summers. Hence understanding phenology is critical for climate change predictions.
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+We can study plant phenology using cameras or satellites collecting sequences of images. However, around 1/3 of CO2 taken up is transported belowground to root systems. Roots are difficult to study as soil is opaque. Other scientists have found that roots don’t grow at the same time as leaves, but we don’t understand why in a general way that can be used in predictions. 
+
+RODEO will use robotic instruments and AI for image analysis to gather data on root phenology. We will use this to try and get a general understanding of root growth to use to improve future climate models. 
 
 **Nanofabricated "Smart Tips"**.
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
