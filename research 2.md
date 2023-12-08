@@ -43,4 +43,4 @@ We have proposed that artificial super-periodicities can lead to improved superc
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
-### ... and more.
+
