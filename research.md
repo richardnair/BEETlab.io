@@ -33,7 +33,9 @@ We are currently in the early phases in the project.
 Team Members involved in RootCheck:
 
 Richard Nair - Trinity College Dublin 
+
 Saoirse Tracy – University College Dublin
+
 Gillian Young – Agri-Food and Biosciences Institute 
 
 
