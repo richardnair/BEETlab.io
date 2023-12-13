@@ -46,10 +46,10 @@ permalink: /
 
 
 
-We, at the BEET lab, pioneer interdisciplinary research focused on understanding the intricate interactions between plants, their environments, and the fundamental cycles of matter and energy shaping our planet. Our holistic approach involves studying plants as complete organisms, both above and belowground, within the contexts of their phenological cycles and biogeochemical interactions. With a commitment to generating general, scalable knowledge crucial for Earth's sustainability amid the planetary crisis, we specialize in leveraging advanced computational methods alongside hands-on field data collection to unravel cryptic components of ecosystems. Emphasizing interdisciplinary collaboration, our lab seeks comprehensive insights into the complex relationships between plants and their environments, aiming to contribute valuable solutions to global ecological challenges.
+Biogeochemical Ecology and Ecological Technology Lab, Botany TCD
+The BEET Lab at Trinity College Dublin is interested in plants, the environment, and fundamental cycles of matter and energy. We are particularly interested in plants as complete organisms above and belowground, coupled into their environment and varying in their activity in phenological (seasonal time). We aim for general, scalable knowledge crucial for Earth's sustainability amid the planetary crisis, and have a special interest in developing new technological methods with and pairing them with boots on the ground data collection addressing gaps in understanding. 
 
- **We will be hiring PhD's and Research Assistants. Check this space again for more details.  ** 
-
+The BEET Lab is led by Dr Richard Nair. **We will be hiring PhDs, postdocs, and research assistants; please check this space again for more details.** 
 
 
 <figure class="fourth">
