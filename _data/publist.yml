@@ -8,7 +8,7 @@
   highlight: 2
   news2: 
 
-title: "Semantic segmentation of plant roots from RGB (mini)rhizotron images—Comparison of established methods with an advanced deep-learning model "
+- title: "Semantic segmentation of plant roots from RGB (mini)rhizotron images—Comparison of established methods with an advanced deep-learning model "
   image: 
   description: 
   authors: Byakov P et al. including Nair R,. 
@@ -28,7 +28,7 @@ title: "Semantic segmentation of plant roots from RGB (mini)rhizotron images—C
   highlight: 2
   news2:   
 
-title: "Do leaf-level coordination principles propagate to the ecosystem scale?"
+- title: "Do leaf-level coordination principles propagate to the ecosystem scale?"
   image: 
   description: 
   authors: Gomarasca U… et al.  including Nair R. 
@@ -38,7 +38,7 @@ title: "Do leaf-level coordination principles propagate to the ecosystem scale?"
   highlight: 2
   news2: 
 
-title: "Rooting vegetation models in realism"
+- title: "Rooting vegetation models in realism"
   image: 
   description: 
   authors: Nair R. 
@@ -58,7 +58,7 @@ title: "Rooting vegetation models in realism"
   highlight: 1
   news2: 
 
-title: "Evergreen broadleaf greenness and its relationship with leaf flushing, aging, and water fluxes"
+- title: "Evergreen broadleaf greenness and its relationship with leaf flushing, aging, and water fluxes"
   image: 
   description: 
   authors: Luo Y et al.  including Nair R. 
@@ -68,7 +68,7 @@ title: "Evergreen broadleaf greenness and its relationship with leaf flushing, a
   highlight: 2
   news2: 
 
-title:  "Forest Canopy N Uptake Can Supply Entire Foliar Demand"
+- title:  "Forest Canopy N Uptake Can Supply Entire Foliar Demand"
   image: 
   description: 
   authors: Ferraretto D., Nair R. (joint first author), Shah N.W., Reay D., Mencuccini M., Spencer M., Heal K.V. 
@@ -78,7 +78,7 @@ title:  "Forest Canopy N Uptake Can Supply Entire Foliar Demand"
   highlight: 2
   news2: 
 
-title: "Long-term ecosystem nitrogen limitation from foliar 15N and a land surface model"
+- title: "Long-term ecosystem nitrogen limitation from foliar 15N and a land surface model"
   image: 
   description: 
   authors:  Caldararu S., Thum T., Yu L., Kern M., Nair R., Zaehle S 
@@ -88,7 +88,7 @@ title: "Long-term ecosystem nitrogen limitation from foliar 15N and a land surfa
   highlight: 2
   news2: 
 
-title: "Global sensitivities of forest carbon changes to environmental conditions"
+- title: "Global sensitivities of forest carbon changes to environmental conditions"
   image: 
   description: 
   authors: Besnard S … et al. including Nair R.
@@ -98,7 +98,7 @@ title: "Global sensitivities of forest carbon changes to environmental condition
   highlight: 2
   news2: 
 
-title: "Direct observation of subterranean refugium use by Epidalea calamita (Natterjack Toad) in a Dehesa ecosystem in Extremadura, Spain"
+- title: "Direct observation of subterranean refugium use by Epidalea calamita (Natterjack Toad) in a Dehesa ecosystem in Extremadura, Spain"
   image: 
   description: 
   authors: Durso A.M., Morris K.A., Nair R.K.F. 
@@ -108,7 +108,7 @@ title: "Direct observation of subterranean refugium use by Epidalea calamita (Na
   highlight: 2
   news2: 
 
-title: "Plant-Available N:P Alters Root Litter N Recycling in a Mediterranean Tree-Grass Ecosystem"
+- title: "Plant-Available N:P Alters Root Litter N Recycling in a Mediterranean Tree-Grass Ecosystem"
   image: 
   description: 
   authors: Nair, R.K.F., Morris K, Migliavacca M, Moreno G, Schrumpf M. 
@@ -118,7 +118,7 @@ title: "Plant-Available N:P Alters Root Litter N Recycling in a Mediterranean Tr
   highlight: 2
   news2: 
 
-title: "Nutrients and water availability constrain the seasonality of vegetation activity in a Mediterranean ecosystem"
+- title: "Nutrients and water availability constrain the seasonality of vegetation activity in a Mediterranean ecosystem"
   image: 
   description: 
   authors: Luo, Y, … Nair, R., ... et al. 
@@ -128,7 +128,7 @@ title: "Nutrients and water availability constrain the seasonality of vegetation
   highlight: 2
   news2: 
 
-title: "Fate of N additions in a Multiple Resource Limited Mediterranean Oak-Savanna"
+- title: "Fate of N additions in a Multiple Resource Limited Mediterranean Oak-Savanna"
   image: 
   description: 
   authors: Morris K. A., Nair, R.K.F., Moreno G, Schrumpf M, Migliavacca M. 
@@ -137,7 +137,7 @@ title: "Fate of N additions in a Multiple Resource Limited Mediterranean Oak-Sav
     display: Ecosphere (2020)
   news2: 
 
-title: "N:P Stoichiometry and Habitat Effects on Mediterranean Savanna Seasonal Root Dynamics"
+- title: "N:P Stoichiometry and Habitat Effects on Mediterranean Savanna Seasonal Root Dynamics"
   image: 
   description: 
   authors: Nair, R. K. F., Morris K.A, Hertel M., Luo Y., Moreno G., Reichstein M, Schrumpf M. & Migliavacca M
@@ -147,7 +147,7 @@ title: "N:P Stoichiometry and Habitat Effects on Mediterranean Savanna Seasonal 
   highlight: 2
   news2: 
 
-title: "Decomposition Nitrogen is Better Retained than Simulated Deposition From Mineral Amendments in a Temperate Forest"
+- title: "Decomposition Nitrogen is Better Retained than Simulated Deposition From Mineral Amendments in a Temperate Forest"
   image: 
   description: 
   authors: Nair, R. K. F., Perks, M. P., & Mencuccini, M. 
@@ -157,7 +157,7 @@ title: "Decomposition Nitrogen is Better Retained than Simulated Deposition From
   highlight: 2
   news2: 
 
-title: "Does canopy nitrogen uptake enhance carbon sequestration by trees?"
+- title: "Does canopy nitrogen uptake enhance carbon sequestration by trees?"
   image: 
   description: 
   authors: RKF Nair, MP Perks, A Weatherall, EM Baggs, M Mencuccini
@@ -167,7 +167,7 @@ title: "Does canopy nitrogen uptake enhance carbon sequestration by trees?"
   highlight: 2
   news2: 
   
-title: "Stem injection of 15N–NH4NO3 into mature Sitka spruce (Picea sitchensis)" 
+- title: "Stem injection of 15N–NH4NO3 into mature Sitka spruce (Picea sitchensis)" 
   image: 
   description: 
   authors: Nair, R., Weatherall, A., Perks, M., & Mencuccini, M. 
