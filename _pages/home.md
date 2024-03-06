@@ -6,7 +6,8 @@ sitemap: false
 permalink: /
 ---
 
-**Plant-Soil Function Lab, Botany Trinity College Dublin**  
+**Plant-Soil Function Group, Botany Trinity College Dublin**  
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,7 +47,7 @@ permalink: /
 
 
 
-Plant-Soil Function Lab, Botany TCD
+Plant-Soil Function Group, Botany TCD
 The Plant-Soil Function group at Trinity College Dublin is an interdisciplinary research group interested in the interactions between plants and their environment. We are particularly interested in the interface between ecology and biogeochemistry; how coupled plant-soil-atmosphere systems regulate the fundamental cycles of matter and energy that regulate the planet. 
 We are interested in the interdisciplinary study of interactions between living organisms, the environment, and fundamental cycles of matter and energy that regulate the planet. We are particularly interested in plants as whole organisms above and belowground, intimately coupled into the environments they occupy, and interacting with biogeochemistry as they live, grow, and die through phenological cycles. We aim for general, scalable knowledge, relevant to earth system sustainability and the planetary crisis. We have a special interest in technological solutions to ecological challenges, particularly in understanding cryptic but critical components of ecosystems, pairing modern computational methods with boots on the ground field data collection. 
 
