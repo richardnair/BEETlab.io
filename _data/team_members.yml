@@ -10,14 +10,14 @@
   education5: PhD, School of Geosciences, University of Edinburgh, 2015
 
 - name: Asrit Ganti 
-  photo: duck.jpg
+  photo: /images/people/duck.jpg
   info:  Research Assistant (Technology Specialist)
   email: gantia[@]tcd.ie
   number_educ: 0
 
 
 - name: "This could be you !"
-  photo: duck.jpg
+  photo: /images/people/duck.jpg
   info: We are hiring. Details will be posted here shortly. 
   number_educ: 0
   education1:
