@@ -1,10 +1,179 @@
-- title: "High Frequency Root Dynamics: Sampling and Interpretation Using Replicated Robotic Minirhizotrons"
+- title: "Functional traits of fossil plants"
   image: 
+  description: How can we use trait ecology from fossils to understand deep time ecosystem function?
+  authors: McElwain J.C. et al including Nair R.
+  link:
+    url: https://doi.org/10.1111/nph.19622
+    display: New Phytologist (2024)
+  highlight: 2
+  news2: 
+
+title: "Semantic segmentation of plant roots from RGB (mini)rhizotron images—Comparison of established methods with an advanced deep-learning model "
+  image: 
+  description: 
+  authors: Byakov P et al. including Nair R,. 
+  link:
+    url: https://doi.org/10.1186/s13007-023-01101-2
+    display: Plant Methods (2023)
+  highlight: 2
+  news2: 
+  
+  title: "Beyond model evaluation - combining experiments and models to advance terrestrial ecosystem science"
+  image: 
+  description: 
+  authors:  Caldararu S., Rolo V., BD Stocker BD., Gimeno TE., Nair R.
+  link:
+    url: https://doi.org/10.5194/bg-2023-47
+    display: Biogeosciences (2023)
+  highlight: 2
+  news2:   
+
+title: "Do leaf-level coordination principles propagate to the ecosystem scale?"
+  image: 
+  description: 
+  authors: Gomarasca U… et al.  including Nair R. 
+  link:
+    url: https://doi.org/10.1038/s41467-023-39572-5
+    display: Nature Communications (2023)
+  highlight: 2
+  news2: 
+
+title: "Rooting vegetation models in realism"
+  image: 
+  description: 
+  authors: Nair R. 
+  link:
+    url: https://doi.org/10.1111/gcb.16699
+    display: Global Change Biology (2023)
+  highlight: 2
+  news2: 
+
+- title: "High Frequency Root Dynamics: Sampling and Interpretation Using Replicated Robotic Minirhizotrons"
+  image: automaticMRs.jpg
   description: We built a robotic instrument which can photograph root growth in real field context on daily timescales and interpret the images with machine learning.
-  authors: Nair, R., Strube M., Hertel M., Kolle O., Rolo V., Migliavacca M
+  authors: Nair R., Strube M., Hertel M., Kolle O., Rolo V., Migliavacca M
   link:
     url: https://doi.org/10.1093/jxb/erac427
-    display: Journal of Experimental Botany, Volume 74, Issue 3, 5 February 2023, 769–786
+    display: Journal of Experimental Botany (2023)
   highlight: 1
+  news2: 
+
+title: "Evergreen broadleaf greenness and its relationship with leaf flushing, aging, and water fluxes"
+  image: 
+  description: 
+  authors: Luo Y et al.  including Nair R. 
+  link:
+    url: https://doi.org/10.1016/j.agrformet.2022.109060
+    display: Agricultural and Forest Meteorology (2022)
+  highlight: 2
+  news2: 
+
+title:  "Forest Canopy N Uptake Can Supply Entire Foliar Demand"
+  image: 
+  description: 
+  authors: Ferraretto D., Nair R. (joint first author), Shah N.W., Reay D., Mencuccini M., Spencer M., Heal K.V. 
+  link:
+    url: https://doi.org/10.1111/1365-2435.14005
+    display: Functional Ecology (2022)
+  highlight: 2
+  news2: 
+
+title: "Long-term ecosystem nitrogen limitation from foliar 15N and a land surface model"
+  image: 
+  description: 
+  authors:  Caldararu S., Thum T., Yu L., Kern M., Nair R., Zaehle S 
+  link:
+    url: https://doi.org/10.1111/gcb.15933
+    display: Global Change Biology (2022)
+  highlight: 2
+  news2: 
+
+title: "Global sensitivities of forest carbon changes to environmental conditions"
+  image: 
+  description: 
+  authors: Besnard S … et al. including Nair R.
+  link:
+    url: https://doi.org/10.1111/gcb.15877
+    display: Global Change Biology (2021)
+  highlight: 2
+  news2: 
+
+title: "Direct observation of subterranean refugium use by Epidalea calamita (Natterjack Toad) in a Dehesa ecosystem in Extremadura, Spain"
+  image: 
+  description: 
+  authors: Durso A.M., Morris K.A., Nair R.K.F. 
+  link:
+    url: https://www.biotaxa.org/hn/article/view/64354
+    display: Herpetology Notes 14, 1203-1205 (2021)
+  highlight: 2
+  news2: 
+
+title: "Plant-Available N:P Alters Root Litter N Recycling in a Mediterranean Tree-Grass Ecosystem"
+  image: 
+  description: 
+  authors: Nair, R.K.F., Morris K, Migliavacca M, Moreno G, Schrumpf M. 
+  link:
+    url: https://doi.org/10.1002/jpln.202000097
+    display: Journal of Plant Nutrition and Soil Science (2020)
+  highlight: 2
+  news2: 
+
+title: "Nutrients and water availability constrain the seasonality of vegetation activity in a Mediterranean ecosystem"
+  image: 
+  description: 
+  authors: Luo, Y, … Nair, R., ... et al. 
+  link:
+    url:  https://doi.org/10.1111/gcb.15138
+    display: Global Change Biology (2020)
+  highlight: 2
+  news2: 
+
+title: "Fate of N additions in a Multiple Resource Limited Mediterranean Oak-Savanna"
+  image: 
+  description: 
+  authors: Morris K. A., Nair, R.K.F., Moreno G, Schrumpf M, Migliavacca M. 
+  link:
+    url:  https://doi.org/10.1002/ecs2.2921
+    display: Ecosphere (2020)
+  news2: 
+
+title: "N:P Stoichiometry and Habitat Effects on Mediterranean Savanna Seasonal Root Dynamics"
+  image: 
+  description: 
+  authors: Nair, R. K. F., Morris K.A, Hertel M., Luo Y., Moreno G., Reichstein M, Schrumpf M. & Migliavacca M
+  link:
+    url: https://doi.org/10.5194/bg-16-1883-2019
+    display: Biogeosciences (2019)
+  highlight: 2
+  news2: 
+
+title: "Decomposition Nitrogen is Better Retained than Simulated Deposition From Mineral Amendments in a Temperate Forest"
+  image: 
+  description: 
+  authors: Nair, R. K. F., Perks, M. P., & Mencuccini, M. 
+  link:
+    url: https://doi.org/10.1111/gcb.13450
+    display: Global Change Biology (2017)
+  highlight: 2
+  news2: 
+
+title: "Does canopy nitrogen uptake enhance carbon sequestration by trees?"
+  image: 
+  description: 
+  authors: RKF Nair, MP Perks, A Weatherall, EM Baggs, M Mencuccini
+  link:
+    url:  https://doi.org/10.1111/gcb.13096
+    display: Global Change Biology (2016)
+  highlight: 2
+  news2: 
+  
+title: "Stem injection of 15N–NH4NO3 into mature Sitka spruce (Picea sitchensis)" 
+  image: 
+  description: 
+  authors: Nair, R., Weatherall, A., Perks, M., & Mencuccini, M. 
+  link:
+    url: https://doi.org/10.1093/treephys/tpu084
+    display: Tree Physiology (2014)
+  highlight: 2
   news2: 
 
