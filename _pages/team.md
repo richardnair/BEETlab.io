@@ -1,14 +1,14 @@
 ---
-title: "BEET Lab - Team"
+title: "PSF Group Team"
 layout: gridlay
-excerpt: "BEET Lab: Team members"
+excerpt: "PSF Group: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs** Details will be posted shortly. Come back and check again. **!**
+ **We will have future openings for PhD students, research assistants, and postdocs ** Details will be posted shortly. Come back and check again. **!**
 
 
 
