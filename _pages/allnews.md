@@ -2,7 +2,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "PSF Group at Trinity College Dublin."
 sitemap: false
 permalink: /allnews.html
 ---

@@ -1,12 +1,12 @@
 ---
-title: "BEET Lab - Home"
+title: "PSF Group- Home"
 layout: homelay
 excerpt: "Richard Nair Lab at Department of Botany &rarr; TCD."
 sitemap: false
 permalink: /
 ---
 
-**Biogeochemical Ecology and Ecological Technology Lab, Botany Trinity College Dublin**  
+**Plant-Soil Function Lab, Botany Trinity College Dublin**  
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -46,10 +46,11 @@ permalink: /
 
 
 
-Biogeochemical Ecology and Ecological Technology Lab, Botany TCD
-The BEET Lab at Trinity College Dublin is interested in plants, the environment, and fundamental cycles of matter and energy. We are particularly interested in plants as complete organisms above and belowground, coupled into their environment and varying in their activity in phenological (seasonal time). We aim for general, scalable knowledge crucial for Earth's sustainability amid the planetary crisis, and have a special interest in developing new technological methods with and pairing them with boots on the ground data collection addressing gaps in understanding. 
+Plant-Soil Function Lab, Botany TCD
+The Plant-Soil Function group at Trinity College Dublin is an interdisciplinary research group interested in the interactions between plants and their environment. We are particularly interested in the interface between ecology and biogeochemistry; how coupled plant-soil-atmosphere systems regulate the fundamental cycles of matter and energy that regulate the planet. 
+We are interested in the interdisciplinary study of interactions between living organisms, the environment, and fundamental cycles of matter and energy that regulate the planet. We are particularly interested in plants as whole organisms above and belowground, intimately coupled into the environments they occupy, and interacting with biogeochemistry as they live, grow, and die through phenological cycles. We aim for general, scalable knowledge, relevant to earth system sustainability and the planetary crisis. We have a special interest in technological solutions to ecological challenges, particularly in understanding cryptic but critical components of ecosystems, pairing modern computational methods with boots on the ground field data collection. 
 
-The BEET Lab is led by Dr Richard Nair. **We will be hiring PhDs, postdocs, and research assistants; please check this space again for more details.** 
+The group is led by Dr Richard Nair. **We will be hiring PhDs, postdocs, and research assistants; please check this space again for more details.** 
 
 
 <figure class="fourth">
