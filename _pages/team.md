@@ -8,11 +8,6 @@ permalink: /team/
 
 # Group Members
 
-**We will have future openings for PhD students, research assistants, and postdocs ** 
-Details will be posted shortly. Come back and check again. **!**
-
-
-
 ## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
