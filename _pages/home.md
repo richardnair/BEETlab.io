@@ -47,11 +47,17 @@ permalink: /
 
 
 The **Plant-Soil Function group** at Trinity College Dublin is an interdisciplinary research group interested in the interactions between plants and their environment. 
+
 Coupled plant-soil-atmosphere systems regulate the fundamental cycles of matter and energy that regulate the planet. We are interested in how they work; and how we understand them in an era of climate change. 
+
 We focus on how plants work as whole organisms (above and belowground), and how they interact with biogeochemistry when they are living, but also when they are dead.
+
 We have special interests in phenological cycles - how living organisms change through the annual cycle - and cryptic components of ecosystems such as roots. 
+
 While we are ultimately concerned with ecological science, we are also interested in technological solutions to ecological and sustainability challenges, 
 such as pairing modern computational methods with boots on the ground field data collection. 
+
+
 
 **The group is led by Dr Richard Nair.** 
 

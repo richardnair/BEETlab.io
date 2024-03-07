@@ -6,8 +6,13 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# Vacancies
+<h1 id="open-positions">Open positions</h1>
 
-{% for article in site.data.news %}
-{{ article.date }} <br> {{ article.headline | markdownify}}
+*We are currently advertising the following vacancies:*
+
+{% for article in site.data.jobs %}
+{{ article.title }} <br> {{ article.description | markdownify}}
 {% endfor %}
+
+
