@@ -23,7 +23,7 @@ Feel free to discuss positions with me before making a formal application by ema
 There are a variety of funding schemes available to support researchers at PhD and postdoctoral level. Please email me if you would like to discuss an application. 
 Richard has been the recipient of 2 prestigeous early career fellowships and is happy to provide guidance. 
 No need to send a CV or cover letter at this stage but please do indicate why you are interested in making an application with the PSF group.
-Please note Richard will usually ignore generic/mass emailed enquiries by prospective students prospective. 
+Please note Richard will usually ignore generic/mass emailed enquiries. 
 - [https://www.sfi.ie/funding/funding-calls/index.xml](Science Foundation Ireland)
 - [https://research.ie/funding-category/postdoctoral/](Irish Research Council)
 - [https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships](Marie Skłodowska-Curie Actions)

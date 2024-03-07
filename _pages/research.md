@@ -16,7 +16,7 @@ permalink: /research/
 In RODEO, we aim to understand the links between phenology (seasonal cycles) above and belowground between roots and shoots, and what this means for greenhouse gas emissions. 
 Currently there are many uncertainties in our understanding of phenology belowground; we know its often not the same as aboveground, but don't understand why.
 We are building robotic instruments to set up a network of root observatories. We will use AI for image analysis to gather data on root phenology. 
-We will use this to try and get a general understanding of root growth to use to improve future climate models. 
+We will use these data to improve representation of roots in climate models. 
 RODEO is funded via a SFI-Royal Society University Research Fellowship awarded to Richard. 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Image_3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
