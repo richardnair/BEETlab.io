@@ -3,7 +3,7 @@ title: "PSF Group - RootCheck Project"
 layout: textlay
 excerpt: "PSF Group - RootCheck Project
 sitemap: false
-permalink: /research/projects/rootcheck/
+permalink: /pages/projects/rootcheck
 ---
 
 
