@@ -14,6 +14,8 @@ permalink: /research/
 
 **RODEO: Root Dynamics for Ecosystem Observation** 
 In RODEO, we aim to understand the links between phenology (seasonal cycles) above and belowground between roots and shoots, and what this means for greenhouse gas emissions. 
+
+
 Currently there are many uncertainties in our understanding of phenology belowground; we know its often not the same as aboveground, but don't understand why.
 We are building robotic instruments to set up a network of root observatories. We will use AI for image analysis to gather data on root phenology. 
 We will use these data to improve representation of roots in climate models. 
@@ -22,8 +24,7 @@ RODEO is funded via a SFI-Royal Society University Research Fellowship awarded t
 ![]({{ site.url }}{{ site.baseurl }}/images/Image_3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
 **RootCheck** 
-In RootCheck we are building tools to improve root health assessment in agricultural systems. 
-[RootCheck]({{ site.url }}{{ site.baseurl }} /pages/rootcheck)
+In [RootCheck]({{ site.url }}{{ site.baseurl }} /pages/rootcheck.md) we are building tools to improve root health assessment in agricultural systems. 
 
 
 Roots are essential for sustainable and productive agriculture but in-field assesment lags well behind above-ground parts of plants. 
