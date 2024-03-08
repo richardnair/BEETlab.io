@@ -23,7 +23,7 @@ RODEO is funded via a SFI-Royal Society University Research Fellowship awarded t
 
 **RootCheck** 
 In RootCheck we are building tools to improve root health assessment in agricultural systems. 
-[RootCheck]{% link rootcheck.md %})
+[RootCheck]({{ site.url }}{{ site.baseurl }} /pages/rootcheck)
 
 
 Roots are essential for sustainable and productive agriculture but in-field assesment lags well behind above-ground parts of plants. 
