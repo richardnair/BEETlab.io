@@ -19,7 +19,7 @@ In RODEO, we aim to understand the links between phenology (seasonal cycles) abo
 Currently there are many uncertainties in our understanding of phenology belowground; we know its often not the same as aboveground, but don't understand why.
 We are building robotic instruments to set up a network of root observatories. We will use AI for image analysis to gather data on root phenology. 
 We will use these data to improve representation of roots in climate models. 
-RODEO is funded via a SFI-Royal Society University Research Fellowship awarded to Richard. 
+*RODEO is funded via a SFI-Royal Society University Research Fellowship awarded to Richard.* 
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Image_3.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
 
@@ -28,9 +28,9 @@ In [RootCheck]({{ site.url }}{{ site.baseurl }} /rootcheck) we are building tool
 
 
 Roots are essential for sustainable and productive agriculture but in-field assesment lags well behind above-ground parts of plants. 
-We are taking a stakeholder-focused approach to calibrate as we aim to deliver a solution in via approachable technology so it can be used in future food system by everyday users. 
+We are taking a stakeholder-focused approach to deliver an approachable technical solution for root management in future food systems. 
 RootCheck is led by Richard, with collaborators Saoirse Tracy (UCD), Aoife Gowan (UCD) and Gillian Young (AFBI Newgrange),
-RootCheck is funded via the SFI National Challenge Fund Future Food Systems call. 
+*RootCheck is funded via the SFI National Challenge Fund Future Food Systems call.*
 
 *Members of the PSF Group are also involved in the following projects:* 
 
