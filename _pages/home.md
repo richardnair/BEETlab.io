@@ -19,7 +19,6 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
-
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
@@ -35,6 +34,7 @@ permalink: /
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Image_4.jpg" alt="Slide 4" />
         </div>
     </div>
+    
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
