@@ -1,12 +1,13 @@
 ---
-title: "BEET Lab - Home"
+title: "PSF Group- Home"
 layout: homelay
-excerpt: "Richard Nair Lab at Department of Botany &rarr; TCD."
+excerpt: "PSF Group at Department of Botany &rarr; TCD."
 sitemap: false
 permalink: /
 ---
 
-**Biogeochemical Ecology and Ecological Technology Lab, Botany Trinity College Dublin**  
+**Research Group of Dr Richard Nair, Botany Trinity College Dublin**  
+
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -45,11 +46,17 @@ permalink: /
 </div>
 
 
+The **Plant-Soil Function group** at Trinity College Dublin is an interdisciplinary research group interested in the bidirectional interactions between plants and the changing global environment.
 
-We, at the BEET lab, pioneer interdisciplinary research focused on understanding the intricate interactions between plants, their environments, and the fundamental cycles of matter and energy shaping our planet. Our holistic approach involves studying plants as complete organisms, both above and belowground, within the contexts of their phenological cycles and biogeochemical interactions. With a commitment to generating general, scalable knowledge crucial for Earth's sustainability amid the planetary crisis, we specialize in leveraging advanced computational methods alongside hands-on field data collection to unravel cryptic components of ecosystems. Emphasizing interdisciplinary collaboration, our lab seeks comprehensive insights into the complex relationships between plants and their environments, aiming to contribute valuable solutions to global ecological challenges.
+We focus on how plants work as whole organisms, above and belowground, and intimately coupled into the soil. 
 
- **We will be hiring PhD's and Research Assistants. Check this space again for more details.  ** 
+We have special interests in phenological cycles - how living organisms change through the annual cycle - and cryptic components of ecosystems such as roots. 
 
+While we are ultimately concerned with ecological science, we are also interested in technological solutions to ecological and sustainability challenges, 
+such as pairing modern computational methods with field data collection. 
+
+
+**The group is led by Dr Richard Nair.** 
 
 
 <figure class="fourth">
