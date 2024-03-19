@@ -24,9 +24,9 @@ There are a variety of funding schemes available to support researchers at PhD a
 Please get in contact if you are interested in opportunities to apply with the PSF group.
 No need to send a CV or cover letter at this stage but please do indicate why you are interested in making an application with the PSF group.
 Please note Richard will usually ignore generic/mass emailed enquiries. 
-- (https://www.sfi.ie/funding/funding-calls/index.xml)[Science Foundation Ireland]
-- (https://research.ie/funding-category/postdoctoral/)[Irish Research Council]
-- (https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)[Marie Skłodowska-Curie Actions]
+- [Science Foundation Ireland](https://research.ie/funding-category/postdoctoral/)
+- [Irish Research Council](https://research.ie/funding-category/postdoctoral/)
+- [Marie Skłodowska-Curie Actions](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)
 - other funding schemes
 
 

@@ -13,7 +13,7 @@ permalink: /research/
 *These are the projects that we are currently leading:*
 
 **RODEO: Root Dynamics for Ecosystem Observation** 
-In RODEO, we aim to understand the links between phenology (seasonal cycles) above and belowground between roots and shoots, and what this means for greenhouse gas emissions. 
+In [RODEO]({{ site.url }}{{ site.baseurl }} /RODEO_Roots), we aim to understand the links between phenology (seasonal cycles) above and belowground between roots and shoots, and what this means for greenhouse gas emissions. 
 
 
 Currently there are many uncertainties in our understanding of phenology belowground; we know its often not the same as aboveground, but don't understand why.
